@@ -1,0 +1,2 @@
+Don't know how changes are made but orginally this was the second file and i deleted the 
+first file using delete rf command and now it is being modified as first file ,have no idea
